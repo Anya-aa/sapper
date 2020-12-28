@@ -1,5 +1,6 @@
 #include "score.h"
 #include <QFont>
+#include "locale.h"
 
 Score::Score(QGraphicsItem *parent): QGraphicsTextItem (parent)
 {

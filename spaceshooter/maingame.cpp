@@ -5,6 +5,7 @@
 #include <QBrush>
 #include <QImage>
 #include <typeinfo>
+#include "locale.h"
 
 Game::Game(QWidget *)
 {

@@ -1,6 +1,7 @@
 #include "health.h"
 #include <QFont>
 #include "maingame.h"
+#include "locale.h"
 
 extern Game * game;
 
